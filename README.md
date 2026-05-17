@@ -123,5 +123,26 @@ Future Enhancements
 - User authentication
 
 ---
+
+---
+
+Project Screenshots
+
+Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+Dashboard Analytics
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+Resume Ranking Results
+
+![Ranking](screenshots/ranking.png)
+
 Author
 Developed by [ Gilledi Santhosh]
